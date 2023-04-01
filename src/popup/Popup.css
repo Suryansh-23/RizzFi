@@ -1,0 +1,18 @@
+html {
+  background: #071426 !important;
+}
+
+body {
+  padding: 0% !important;
+  margin: 0 !important;
+  background: #071426;
+}
+
+.border {
+  border-radius: 1rem !important;
+}
+
+.p-card-content,
+.p-card-body {
+  padding: 0 !important;
+}
